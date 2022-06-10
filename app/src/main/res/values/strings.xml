@@ -1,0 +1,10 @@
+<resources>
+    <string name="create">Create</string>
+    <string name="select_class_image">Select class image :</string>
+    <string name="class_name">Class name</string>
+    <string name="subject_name">Subject name</string>
+    <string name="just_create_your_class_to_manage_daily_attendance_and_report_them_add_students_in_the_next_step">Just create your class to manage daily attendance and report them. Add students in the next step</string>
+    <string name="a">A</string>
+    <string name="p">P</string>
+    <string name="classes">Classes with Subjects and Students</string>
+</resources>
